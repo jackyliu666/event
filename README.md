@@ -1,6 +1,6 @@
 # Note:
 1. The system used in this paper is a local virtual machine, not an Internet public target
-2. Due to Shanghai Lingdang Information Technology Co., Ltd only releasing the latest version of CRM to the public, the vulnerable version has been uploaded to the same directory as this article. So that you can reproduce and use it in your environment.
+2. Due to Shanghai Lingdang Information Technology Co., Ltd only releasing the latest version of CRM to the public, the vulnerable version has been uploaded to the same directory as this article. So that you can reproduce and use it in your environment. It's named CRMV8.6.5.2-SP23_20250708.zip.
 
 
 # 1、Open the target source code and determine the current version
